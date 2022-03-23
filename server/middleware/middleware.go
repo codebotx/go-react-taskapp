@@ -7,7 +7,7 @@ import (
 	"log"
 	"net/http"
 
-	"../models"
+	"github.com/codebotx/taskpad-go-react/server/models"
 	"github.com/gorilla/mux"
 
 	"go.mongodb.org/mongo-driver/bson"
